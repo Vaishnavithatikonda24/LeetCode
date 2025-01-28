@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0066-plus-one) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0041-first-missing-positive) |
 ## Trie
 |  |
 | ------- |
