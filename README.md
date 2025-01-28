@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0066-plus-one) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
