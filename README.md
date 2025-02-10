@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Matrix
 |  |
 | ------- |
