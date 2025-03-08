@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0079-word-search) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
