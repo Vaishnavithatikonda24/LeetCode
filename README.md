@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Vaishnavithatikonda24/LeetCode/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
